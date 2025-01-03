@@ -1,0 +1,1 @@
+This file contains simple Black Scholes model function which outputs the price of european options based on factors such as Current Stock Price, Strike Price, Time to maturity (in years), Risk-free interest rate, Volatility of the underlying asset, option type
